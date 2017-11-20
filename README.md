@@ -4,9 +4,9 @@
 
 This is an extended Russian keyboard layout that allows writing every significant minority language in the Russian Federation (Moksha, Abkhazian, Kildin Sami, Bashkir, Yakut, you name it), as well as all major international Cyrillic written languages outside of Russia as well (Ukrainian, Serbian, Kazakh, Mongolian, etc.), and many classical orthographies (Church Slavic, old Komi, old Aleut). This way, it’ll be a lot easier to write, converse, and provide important digital services to users of more than 60 different languages, many of whom don’t currently have official layouts in Windows.
 
-Notably, this layout contains pretty much every single Cyrillic letter that was present in Unicode as of the summer of 2017, providing native key presses for dozens upon dozens of different Cyrillic orthographies, both big and small ⁽ⁱⁿ ᵗʰᵉⁱʳ ᵘˢᵉʳᵇᵃˢᵉˢ⁾. It even contains Serbian cursive letters natively, meaning that the typing of them is no longer ISO-code-dependent.
+Notably, this layout contains pretty much every single Cyrillic letter that was present in Unicode as of the summer of 2017, providing native key presses for dozens upon dozens of different Cyrillic orthographies, both big and small. It even contains Serbian cursive letters natively, meaning that the typing of them is no longer ISO-code-dependent.
 
-The layout was specifically designed for Nordic physical keyboards, but the project’s open-source licence means that I strongly encourage the act of adapting it to other physical setups as well. Have fun, and I hope this’ll be of any help to you ⁽ˢⁱⁿᵍᵘˡᵃʳ⁾.
+The layout was specifically designed for Nordic physical keyboards, but the project’s open-source licence means that I strongly encourage the act of adapting it to other physical setups as well. Have fun, and I hope this’ll be of any help to you.
 
 The project maintainer (me) does not speak Russian natively, so English is strongly preferred to contact me (though is not strictly required).
 

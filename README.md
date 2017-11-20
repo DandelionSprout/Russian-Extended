@@ -1,6 +1,6 @@
 # Russian-Extended
 
-![alt text](https://raw.githubusercontent.com/DandelionSprout/Russian-Extended/master/Milestone%20Cyrillic.png)
+![alt text](https://raw.githubusercontent.com/DandelionSprout/Russian-Extended/master/Cyrillic_layout.png)
 
 This is an extended Russian keyboard layout that allows writing every significant minority language in the Russian Federation (Moksha, Abkhazian, Kildin Sami, Bashkir, Yakut, you name it), as well as all major international Cyrillic written languages outside of Russia as well (Ukrainian, Serbian, Kazakh, Mongolian, etc.), and many classical orthographies (Church Slavic, old Komi, old Aleut). This way, it’ll be a lot easier to write, converse, and provide important digital services to users of more than 60 different languages, many of whom don’t currently have official layouts in Windows.
 
@@ -10,7 +10,7 @@ The layout was specifically designed for Nordic physical keyboards, but the proj
 
 The project maintainer (me) does not speak Russian natively, so English is strongly preferred to contact me (though is not strictly required).
 
-—————————————————————————————————————————————————————————————
+————————————————————————————————————————————————
 
 <b>Русский-Расширенный</b>
 
